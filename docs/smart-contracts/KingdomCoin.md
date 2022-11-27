@@ -3,7 +3,7 @@ id: clarinet
 title: Setting up a local development environment
 ---
 
-[Clarinet][] is a local Clarity runtime packaged as a command-line application. It's designed to facilitate rapid smart contract development, testing, and deployment. 
+[Kingdom Coin][] is a local Clarity runtime packaged as a command-line application. It's designed to facilitate rapid smart contract development, testing, and deployment. 
 
 Clarinet consists of two components:
 
@@ -156,9 +156,9 @@ Initialized balances
 +------------------------------------------------------+---------+
 | Address                                              | STX     |
 +------------------------------------------------------+---------+
-| ST1HTBVD3JG9C05J7HBJTHGR0GGW7KXW28M5JS8QE (deployer) | 1000000 |
+| ST1HTBVD3JG9C05J7HBJTHGR0GGW7KXW28M5JS8QE (deployer) | 100000000 |
 +------------------------------------------------------+---------+
-| ST1J4G6RR643BCG8G8SR6M2D9Z9KXT2NJDRK3FBTK (wallet_1) | 1000000 |
+| ST1J4G6RR643BCG8G8SR6M2D9Z9KXT2NJDRK3FBTK (wallet_1) | 100000000 |
 +------------------------------------------------------+---------+
 ...
 ```
